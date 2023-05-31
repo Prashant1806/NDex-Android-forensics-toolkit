@@ -1,4 +1,4 @@
-**# Android Forensics Toolkit**
+# Android Forensics Toolkit
 
 The Android Forensics Toolkit is an Android application that can extract various types of data from Android devices, including call logs, contacts, messages, and browser history. This toolkit provides a convenient way to extract and analyze data for forensic investigations or research purposes.
 
